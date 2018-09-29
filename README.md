@@ -1,4 +1,4 @@
-This is a repository for Computer Music Research.
+This is a repository for Audio Research.
 
 ### Noise cancelling
 
